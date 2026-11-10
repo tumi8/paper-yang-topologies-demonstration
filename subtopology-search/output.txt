@@ -1,0 +1,46 @@
+testbed-network: 43 nodes, 234 directed links, 12 optical splitter entries
+Each option is one set of testbed hosts. Each numbered column shows one way
+to assign those hosts and ports to Figure 1. A dot marks an unused port.
+
+Figure 1, no minimum speed: matching setups (distinct node sets) = 2
+Option 1
+────────────────────────────────────────────────────────────────
+                                        #1          #2         
+dogecoin.blockchain.net.cit.tum.de      nodeB       nodeA      
+└ eno7                                  ethB        ethA       
+dogecoincash.blockchain.net.cit.tum.de  nodeA       nodeB      
+└ eno7                                  ethA        ethB       
+dogecoingold.blockchain.net.cit.tum.de  nodeSniffer nodeSniffer
+├ eno7                                  ethC        ethD       
+└ eno8                                  ethD        ethC       
+
+Option 2
+────────────────────────────────────────────────────────────────────────────────
+                                #1          #2          #3          #4         
+avax.blockchain.net.cit.tum.de  nodeSniffer nodeSniffer nodeSniffer nodeSniffer
+├ ens4f0np0                     ethC        ·           ethD        ·          
+├ ens4f1np1                     ethD        ·           ethC        ·          
+├ ens5f0                        ·           ethC        ·           ethD       
+└ ens5f1                        ·           ethD        ·           ethC       
+pact.blockchain.net.cit.tum.de  nodeB       nodeB       nodeA       nodeA      
+├ ens4f0np0                     ethB        ·           ethA        ·          
+└ ens6f1                        ·           ethB        ·           ethA       
+stoi.blockchain.net.cit.tum.de  nodeA       nodeA       nodeB       nodeB      
+├ ens4f0np0                     ethA        ·           ethB        ·          
+└ ens6f1                        ·           ethA        ·           ethB       
+
+Figure 1, at least 100 Gbit/s on every link: matching setups (distinct node sets) = 1
+Option 1
+────────────────────────────────────────────────────────────────────────────────
+                                #1          #2          #3          #4         
+avax.blockchain.net.cit.tum.de  nodeSniffer nodeSniffer nodeSniffer nodeSniffer
+├ ens4f0np0                     ethC        ·           ethD        ·          
+├ ens4f1np1                     ethD        ·           ethC        ·          
+├ ens5f0                        ·           ethC        ·           ethD       
+└ ens5f1                        ·           ethD        ·           ethC       
+pact.blockchain.net.cit.tum.de  nodeB       nodeB       nodeA       nodeA      
+├ ens4f0np0                     ethB        ·           ethA        ·          
+└ ens6f1                        ·           ethB        ·           ethA       
+stoi.blockchain.net.cit.tum.de  nodeA       nodeA       nodeB       nodeB      
+├ ens4f0np0                     ethA        ·           ethB        ·          
+└ ens6f1                        ·           ethA        ·           ethB       

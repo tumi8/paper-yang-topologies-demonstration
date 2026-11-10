@@ -1,0 +1,162 @@
+{
+    "ietf-yang-instance-data:instance-data-set": {
+        "content-schema": {
+            "module": [
+                "ietf-network@2018-02-26",
+                "ietf-network-topology@2018-02-26",
+                "ietf-l2-topology@2020-11-15",
+                "optical-splitter@2026-06-10",
+                "net-properties@2026-06-10"
+            ]
+        },
+        "revision": {
+            "2026-06-10": {
+                "date": "2026-06-10",
+                "description": "1.0.0"
+            }
+        },
+        "content-data": {
+            "ietf-network:networks": {
+                "network": [
+                    {
+                        "ietf-network-topology:link": [
+                            {
+                                "destination": {
+                                    "dest-node": "client",
+                                    "dest-tp": "eno7"
+                                },
+                                "link-id": "server:eno7->client:eno7",
+                                "optical-splitter:is-split": true,
+                                "source": {
+                                    "source-node": "server",
+                                    "source-tp": "eno7"
+                                },
+                                "net-properties:medium": "optical-fiber",
+                                "net-properties:speed": "10000000000",
+                                "net-properties:description": "10GigBaseLR - R fiber over 1310 nm optics"
+                            },
+                            {
+                                "destination": {
+                                    "dest-node": "server",
+                                    "dest-tp": "eno7"
+                                },
+                                "link-id": "client:eno7->server:eno7",
+                                "optical-splitter:is-split": true,
+                                "source": {
+                                    "source-node": "client",
+                                    "source-tp": "eno7"
+                                },
+                                "net-properties:medium": "optical-fiber",
+                                "net-properties:speed": "10000000000",
+                                "net-properties:description": "10GigBaseLR - R fiber over 1310 nm optics"
+                            },
+                            {
+                                "destination": {
+                                    "dest-node": "sniffer",
+                                    "dest-tp": "eno8"
+                                },
+                                "link-id": "client:eno7->sniffer:eno8",
+                                "optical-splitter:is-sniffer": true,
+                                "source": {
+                                    "source-node": "client",
+                                    "source-tp": "eno7"
+                                },
+                                "net-properties:medium": "optical-fiber",
+                                "net-properties:speed": "10000000000",
+                                "net-properties:description": "10GigBaseLR - R fiber over 1310 nm optics"
+                            },
+                            {
+                                "destination": {
+                                    "dest-node": "sniffer",
+                                    "dest-tp": "eno7"
+                                },
+                                "link-id": "server:eno7->sniffer:eno7",
+                                "optical-splitter:is-sniffer": true,
+                                "source": {
+                                    "source-node": "server",
+                                    "source-tp": "eno7"
+                                },
+                                "net-properties:medium": "optical-fiber",
+                                "net-properties:speed": "10000000000",
+                                "net-properties:description": "10GigBaseLR - R fiber over 1310 nm optics"
+                            }
+                        ],
+                        "network-id": "splitter-demo",
+                        "node": [
+                            {
+                                "ietf-network-topology:termination-point": [
+                                    {
+                                        "tp-id": "eno7",
+                                        "ietf-l2-topology:l2-termination-point-attributes": {
+                                            "mac-address": "ac:1f:6b:7c:8a:ba"
+                                        }
+                                    }
+                                ],
+                                "net-properties:device-type": "server",
+                                "node-id": "client"
+                            },
+                            {
+                                "ietf-network-topology:termination-point": [
+                                    {
+                                        "tp-id": "eno7",
+                                        "ietf-l2-topology:l2-termination-point-attributes": {
+                                            "mac-address": "ac:1f:6b:7c:8b:84"
+                                        }
+                                    }
+                                ],
+                                "net-properties:device-type": "server",
+                                "node-id": "server"
+                            },
+                            {
+                                "ietf-network-topology:termination-point": [
+                                    {
+                                        "tp-id": "eno8",
+                                        "ietf-l2-topology:l2-termination-point-attributes": {
+                                            "mac-address": "ac:1f:6b:7c:88:6d"
+                                        }
+                                    },
+                                    {
+                                        "tp-id": "eno7",
+                                        "ietf-l2-topology:l2-termination-point-attributes": {
+                                            "mac-address": "ac:1f:6b:7c:88:6c"
+                                        }
+                                    }
+                                ],
+                                "net-properties:device-type": "server",
+                                "node-id": "sniffer"
+                            }
+                        ],
+                        "optical-splitter:optical-splitter": [
+                            {
+                                "opt-split-id": "splitter-forward",
+                                "sniffed-link": "client:eno7->server:eno7",
+                                "sniffer": [
+                                    {
+                                        "node-ref": "sniffer",
+                                        "split-ratio": "0.5",
+                                        "tp-ref": "eno8"
+                                    }
+                                ],
+                                "split-ratio": "0.5",
+                                "splitter-order": "0"
+                            },
+                            {
+                                "opt-split-id": "splitter-reverse",
+                                "sniffed-link": "server:eno7->client:eno7",
+                                "sniffer": [
+                                    {
+                                        "node-ref": "sniffer",
+                                        "split-ratio": "0.5",
+                                        "tp-ref": "eno7"
+                                    }
+                                ],
+                                "split-ratio": "0.5",
+                                "splitter-order": "0"
+                            }
+                        ]
+                    }
+                ]
+            }
+        }
+    }
+}

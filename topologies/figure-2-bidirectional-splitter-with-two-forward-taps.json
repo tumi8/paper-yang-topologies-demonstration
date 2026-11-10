@@ -1,0 +1,171 @@
+{
+  "ietf-yang-instance-data:instance-data-set": {
+    "content-schema": {
+      "module": [
+        "ietf-network@2018-02-26",
+        "ietf-network-topology@2018-02-26",
+        "ietf-l2-topology@2020-11-15",
+        "optical-splitter@2026-06-10",
+        "net-properties@2026-06-10"
+      ]
+    },
+    "revision": {
+      "2026-06-10": {
+        "date": "2026-06-10",
+        "description": "1.0.0"
+      }
+    },
+    "content-data": {
+      "ietf-network:networks": {
+        "network": [
+          {
+            "ietf-network-topology:link": [
+              {
+                "link-id": "linkAB",
+                "source": {
+                  "source-node": "nodeA",
+                  "source-tp": "ethA"
+                },
+                "destination": {
+                  "dest-node": "nodeB",
+                  "dest-tp": "ethB"
+                },
+                "optical-splitter:is-split": true,
+                "optical-splitter:is-sniffer": false
+              },
+              {
+                "link-id": "linkBA",
+                "source": {
+                  "source-node": "nodeB",
+                  "source-tp": "ethB"
+                },
+                "destination": {
+                  "dest-node": "nodeA",
+                  "dest-tp": "ethA"
+                },
+                "optical-splitter:is-split": true,
+                "optical-splitter:is-sniffer": false
+              },
+              {
+                "link-id": "linkAC",
+                "source": {
+                  "source-node": "nodeA",
+                  "source-tp": "ethA"
+                },
+                "destination": {
+                  "dest-node": "nodeSniffer",
+                  "dest-tp": "ethC"
+                },
+                "optical-splitter:is-split": false,
+                "optical-splitter:is-sniffer": true
+              },
+              {
+                "link-id": "linkBD",
+                "source": {
+                  "source-node": "nodeB",
+                  "source-tp": "ethB"
+                },
+                "destination": {
+                  "dest-node": "nodeSniffer",
+                  "dest-tp": "ethD"
+                },
+                "optical-splitter:is-split": false,
+                "optical-splitter:is-sniffer": true
+              },
+              {
+                "link-id": "linkAE",
+                "source": {
+                  "source-node": "nodeA",
+                  "source-tp": "ethA"
+                },
+                "destination": {
+                  "dest-node": "nodeSniffer",
+                  "dest-tp": "ethE"
+                },
+                "optical-splitter:is-split": false,
+                "optical-splitter:is-sniffer": true
+              }
+            ],
+            "network-id": "splitter-demo",
+            "node": [
+              {
+                "node-id": "nodeA",
+                "net-properties:device-type": "server",
+                "ietf-network-topology:termination-point": [
+                  {
+                    "tp-id": "ethA"
+                  }
+                ]
+              },
+              {
+                "node-id": "nodeB",
+                "net-properties:device-type": "server",
+                "ietf-network-topology:termination-point": [
+                  {
+                    "tp-id": "ethB"
+                  }
+                ]
+              },
+              {
+                "node-id": "nodeSniffer",
+                "net-properties:device-type": "server",
+                "ietf-network-topology:termination-point": [
+                  {
+                    "tp-id": "ethC"
+                  },
+                  {
+                    "tp-id": "ethD"
+                  },
+                  {
+                    "tp-id": "ethE"
+                  }
+                ]
+              }
+            ],
+            "optical-splitter:optical-splitter": [
+              {
+                "opt-split-id": "fwd0",
+                "sniffed-link": "linkAB",
+                "splitter-order": "0",
+                "split-ratio": "0.5",
+                "sniffer": [
+                  {
+                    "node-ref": "nodeSniffer",
+                    "tp-ref": "ethC",
+                    "split-ratio": "0.5"
+                  }
+                ]
+              },
+              {
+                "opt-split-id": "fwd1",
+                "sniffed-link": "linkAB",
+                "splitter-order": "1",
+                "split-ratio": "0.5",
+                "sniffer": [
+                  {
+                    "node-ref": "nodeSniffer",
+                    "tp-ref": "ethE",
+                    "split-ratio": "0.5"
+                  }
+                ]
+              },
+              {
+                "opt-split-id": "rev0",
+                "sniffed-link": "linkBA",
+                "splitter-order": "0",
+                "split-ratio": "0.5",
+                "sniffer": [
+                  {
+                    "node-ref": "nodeSniffer",
+                    "tp-ref": "ethD",
+                    "split-ratio": "0.5"
+                  }
+                ]
+              }
+            ]
+          }
+        ]
+      }
+    }
+  }
+}
