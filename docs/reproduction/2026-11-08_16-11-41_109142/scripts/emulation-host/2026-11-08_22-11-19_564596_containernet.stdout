@@ -1,0 +1,12 @@
+Topology splitter-demo: 3 nodes, 1 links, 2 capture branches
+  client -> client; interfaces: eno7=eno7
+  server -> server; interfaces: eno7=eno7
+  sniffer -> sniffer; interfaces: eno7=eno7, eno8=eno8
+Management (mgmt0 via eno1np0):
+  client: 52:54:00:87:00:02
+  server: 52:54:00:87:00:03
+  sniffer: 52:54:00:87:00:04
+client: SSH client (172.16.135.2)
+server: SSH server (172.16.135.3)
+sniffer: SSH sniffer (172.16.135.4)
+Data interfaces are unnumbered. Exit removes containers and their files.

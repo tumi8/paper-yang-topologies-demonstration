@@ -1,0 +1,1 @@
+['python3', '/root/net_topology/net_topology/containernet_backend.py', '/root/topology.json', '--uplink', 'eno1np0', '--management-start-mac', '52:54:00:87:00:02', '--no-cli']

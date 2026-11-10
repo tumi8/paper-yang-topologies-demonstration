@@ -1,0 +1,1 @@
+scp /home/erhauser/repositories/research/experiment-yang-mininet/pq-tls-measurement/ssh-key-cert-sync/cert-sync-key.pub client:/root/.ssh/

@@ -1,0 +1,43 @@
+#!/bin/sh
+
+set -eu
+TOPOLOGY_DIR=/root/net_topology
+INSTALL_DIR=/opt/yang-containernet
+CONTAINERNET_REPO=$(pos_get_variable containernet_repository)
+CONTAINERNET_COMMIT=$(pos_get_variable containernet_commit)
+NODE_BASE_IMAGE=$(pos_get_variable containernet_base_image)
+export DEBIAN_FRONTEND=noninteractive
+
+# Prevent Docker's default service from changing the shared host network.
+systemctl mask --runtime docker.service docker.socket
+apt-get update
+apt-get install -y --no-install-recommends \
+    docker.io docker-cli python3-venv python3-dev build-essential git \
+    libffi-dev libssl-dev pkg-config openvswitch-switch \
+    iproute2 iputils-ping net-tools procps util-linux openssh-client ca-certificates
+
+# Install the repository and version selected in the POS node-local variables.
+mkdir -p "$INSTALL_DIR"
+git clone "$CONTAINERNET_REPO" "$INSTALL_DIR/containernet"
+cd "$INSTALL_DIR/containernet"
+git checkout "$CONTAINERNET_COMMIT"
+python3 -m venv "$INSTALL_DIR/.venv"
+"$INSTALL_DIR/.venv/bin/pip" install \
+    -r "$TOPOLOGY_DIR/scripts/containernet/requirements.txt" \
+    "$INSTALL_DIR/containernet" \
+    -e "$TOPOLOGY_DIR"
+
+# Build the namespace helper supplied by Containernet.
+make mnexec PYTHON="$INSTALL_DIR/.venv/bin/python"
+install -m 755 mnexec "$INSTALL_DIR/.venv/bin/mnexec"
+
+# The dedicated Docker service disables bridge, firewall and forwarding changes.
+install -m 644 "$TOPOLOGY_DIR/scripts/containernet/yang-containernet-docker.service" /etc/systemd/system/
+systemctl daemon-reload
+systemctl start yang-containernet-docker.service
+export DOCKER_HOST=unix:///run/yang-containernet/docker.sock
+
+# Build under the same default tag used by the Python launcher.
+NODE_IMAGE=$("$INSTALL_DIR/.venv/bin/python" -c 'from net_topology.containernet_backend import DEFAULT_IMAGE; print(DEFAULT_IMAGE)')
+docker build --network=host --build-arg BASE_IMAGE="$NODE_BASE_IMAGE" \
+    -t "$NODE_IMAGE" "$TOPOLOGY_DIR/scripts/containernet"

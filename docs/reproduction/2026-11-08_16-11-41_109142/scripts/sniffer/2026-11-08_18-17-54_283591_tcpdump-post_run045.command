@@ -1,0 +1,1 @@
+['bash', '-c', 'timeout --signal=INT "$1" tcpdump -i "$2" -s "$3" --time-stamp-precision=nano -Z root -w "$4"; test "$?" -eq 124', '_', '105', 'eno7', '1024', 'latencies-post.pcap']

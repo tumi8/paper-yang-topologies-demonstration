@@ -1,0 +1,2086 @@
+NOTICE:  database "root15" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run014.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run014.pcap.zst: 2572496 bytes 
+
+post_run014.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run014.pcap.zst: 5532960 bytes 
+32903
+32904
+INFO:root:IPv4: 11646 [!options: 0] (TCP: 11646, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 14234 [!options: 0] (TCP: 14234, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root16" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run015.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run015.pcap.zst: 3102872 bytes 
+
+post_run015.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run015.pcap.zst: 7967972 bytes 
+32949
+32951
+INFO:root:IPv4: 14990 [!options: 0] (TCP: 14990, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 17987 [!options: 0] (TCP: 17987, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root14" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run013.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run013.pcap.zst: 2545714 bytes 
+
+post_run013.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run013.pcap.zst: 6187530 bytes 
+32921
+32923
+INFO:root:IPv4: 15867 [!options: 0] (TCP: 15867, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 19392 [!options: 0] (TCP: 19392, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run016.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run016.pcap.zst: 5067026 bytes 
+
+post_run016.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run016.pcap.zst: 10898972 bytes 
+34195
+34196
+INFO:root:IPv4: 22941 [!options: 0] (TCP: 22941, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 28034 [!options: 0] (TCP: 28034, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root10" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run009.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run009.pcap.zst: 8210054 bytes 
+
+post_run009.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run009.pcap.zst: 17660592 bytes 
+32937
+32939
+INFO:root:IPv4: 37170 [!options: 0] (TCP: 37170, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 45425 [!options: 0] (TCP: 45425, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run020.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run020.pcap.zst: 1759580 bytes 
+
+post_run020.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run020.pcap.zst: 4216106 bytes 
+35491
+35492
+INFO:root:IPv4: 10701 [!options: 0] (TCP: 10701, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 13077 [!options: 0] (TCP: 13077, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run021.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run021.pcap.zst: 1903672 bytes 
+
+post_run021.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run021.pcap.zst: 4033148 bytes 
+35864
+35865
+INFO:root:IPv4: 8496 [!options: 0] (TCP: 8496, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 9910 [!options: 0] (TCP: 9910, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run022.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run022.pcap.zst: 1763380 bytes 
+
+post_run022.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run022.pcap.zst: 3792964 bytes 
+36208
+36210
+INFO:root:IPv4: 7983 [!options: 0] (TCP: 7983, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 9757 [!options: 0] (TCP: 9757, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run023.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run023.pcap.zst: 93403 bytes 
+
+post_run023.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run023.pcap.zst: 281775 bytes 
+36562
+36563
+INFO:root:IPv4: 651 [!options: 0] (TCP: 651, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 751 [!options: 0] (TCP: 751, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run024.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run024.pcap.zst: 50216 bytes 
+
+post_run024.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run024.pcap.zst: 129994 bytes 
+36888
+36889
+INFO:root:IPv4: 280 [!options: 0] (TCP: 280, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 255 [!options: 0] (TCP: 255, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run025.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run025.pcap.zst: 80350 bytes 
+
+post_run025.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run025.pcap.zst: 198496 bytes 
+37222
+37223
+INFO:root:IPv4: 389 [!options: 0] (TCP: 389, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 427 [!options: 0] (TCP: 427, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run026.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run026.pcap.zst: 89010 bytes 
+
+post_run026.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run026.pcap.zst: 218089 bytes 
+37557
+37559
+INFO:root:IPv4: 434 [!options: 0] (TCP: 434, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 497 [!options: 0] (TCP: 497, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run027.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run027.pcap.zst: 78490 bytes 
+
+post_run027.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run027.pcap.zst: 190291 bytes 
+37857
+37859
+INFO:root:IPv4: 379 [!options: 0] (TCP: 379, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 436 [!options: 0] (TCP: 436, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run028.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run028.pcap.zst: 65122 bytes 
+
+post_run028.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run028.pcap.zst: 191284 bytes 
+38200
+38202
+INFO:root:IPv4: 445 [!options: 0] (TCP: 445, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 508 [!options: 0] (TCP: 508, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run029.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run029.pcap.zst: 67896 bytes 
+
+post_run029.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run029.pcap.zst: 171977 bytes 
+38543
+38545
+INFO:root:IPv4: 338 [!options: 0] (TCP: 338, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 376 [!options: 0] (TCP: 376, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run030.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run030.pcap.zst: 86852 bytes 
+
+post_run030.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run030.pcap.zst: 216123 bytes 
+38851
+38852
+INFO:root:IPv4: 415 [!options: 0] (TCP: 415, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 465 [!options: 0] (TCP: 465, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run031.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run031.pcap.zst: 75280 bytes 
+
+post_run031.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run031.pcap.zst: 194724 bytes 
+39214
+39215
+INFO:root:IPv4: 423 [!options: 0] (TCP: 423, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 379 [!options: 0] (TCP: 379, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run032.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run032.pcap.zst: 93308 bytes 
+
+post_run032.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run032.pcap.zst: 222099 bytes 
+39522
+39523
+INFO:root:IPv4: 441 [!options: 0] (TCP: 441, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 507 [!options: 0] (TCP: 507, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run033.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run033.pcap.zst: 95415 bytes 
+
+post_run033.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run033.pcap.zst: 264557 bytes 
+39875
+39876
+INFO:root:IPv4: 504 [!options: 0] (TCP: 504, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 470 [!options: 0] (TCP: 470, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run034.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run034.pcap.zst: 87178 bytes 
+
+post_run034.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run034.pcap.zst: 228794 bytes 
+40201
+40203
+INFO:root:IPv4: 447 [!options: 0] (TCP: 447, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 486 [!options: 0] (TCP: 486, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run035.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run035.pcap.zst: 81240 bytes 
+
+post_run035.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run035.pcap.zst: 212679 bytes 
+40527
+40528
+INFO:root:IPv4: 411 [!options: 0] (TCP: 411, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 462 [!options: 0] (TCP: 462, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run036.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run036.pcap.zst: 71340 bytes 
+
+post_run036.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run036.pcap.zst: 211222 bytes 
+40852
+40854
+INFO:root:IPv4: 485 [!options: 0] (TCP: 485, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 546 [!options: 0] (TCP: 546, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run037.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run037.pcap.zst: 95876 bytes 
+
+post_run037.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run037.pcap.zst: 215610 bytes 
+41160
+41161
+INFO:root:IPv4: 441 [!options: 0] (TCP: 441, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 480 [!options: 0] (TCP: 480, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run038.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run038.pcap.zst: 57996 bytes 
+
+post_run038.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run038.pcap.zst: 163813 bytes 
+41478
+41479
+INFO:root:IPv4: 293 [!options: 0] (TCP: 293, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 317 [!options: 0] (TCP: 317, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run039.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run039.pcap.zst: 103272 bytes 
+
+post_run039.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run039.pcap.zst: 259163 bytes 
+41822
+41823
+INFO:root:IPv4: 574 [!options: 0] (TCP: 574, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 520 [!options: 0] (TCP: 520, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run040.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run040.pcap.zst: 107572 bytes 
+
+post_run040.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run040.pcap.zst: 266740 bytes 
+42156
+42157
+INFO:root:IPv4: 564 [!options: 0] (TCP: 564, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 518 [!options: 0] (TCP: 518, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root8" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run007.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run007.pcap.zst: 14435650 bytes 
+
+post_run007.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run007.pcap.zst: 31051232 bytes 
+32979
+32981
+INFO:root:IPv4: 65358 [!options: 0] (TCP: 65358, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 79867 [!options: 0] (TCP: 79867, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run041.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run041.pcap.zst: 107512 bytes 
+
+post_run041.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run041.pcap.zst: 261476 bytes 
+42546
+42547
+INFO:root:IPv4: 516 [!options: 0] (TCP: 516, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 585 [!options: 0] (TCP: 585, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run042.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run042.pcap.zst: 76563 bytes 
+
+post_run042.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run042.pcap.zst: 198918 bytes 
+42683
+42685
+INFO:root:IPv4: 388 [!options: 0] (TCP: 388, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 423 [!options: 0] (TCP: 423, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run043.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run043.pcap.zst: 63146 bytes 
+
+post_run043.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run043.pcap.zst: 173574 bytes 
+43078
+43080
+INFO:root:IPv4: 410 [!options: 0] (TCP: 410, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 469 [!options: 0] (TCP: 469, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run044.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run044.pcap.zst: 154967 bytes 
+
+post_run044.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run044.pcap.zst: 356846 bytes 
+43288
+43290
+INFO:root:IPv4: 696 [!options: 0] (TCP: 696, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 745 [!options: 0] (TCP: 745, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run045.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run045.pcap.zst: 76612 bytes 
+
+post_run045.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run045.pcap.zst: 179798 bytes 
+43694
+43695
+INFO:root:IPv4: 397 [!options: 0] (TCP: 397, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 357 [!options: 0] (TCP: 357, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run046.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run046.pcap.zst: 262034 bytes 
+
+post_run046.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run046.pcap.zst: 654494 bytes 
+43930
+43932
+INFO:root:IPv4: 1710 [!options: 0] (TCP: 1710, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 2090 [!options: 0] (TCP: 2090, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run047.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run047.pcap.zst: 286296 bytes 
+
+post_run047.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run047.pcap.zst: 615880 bytes 
+44281
+44283
+INFO:root:IPv4: 1296 [!options: 0] (TCP: 1296, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1584 [!options: 0] (TCP: 1584, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run048.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run048.pcap.zst: 224668 bytes 
+
+post_run048.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run048.pcap.zst: 483260 bytes 
+44645
+44647
+INFO:root:IPv4: 1243 [!options: 0] (TCP: 1243, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1017 [!options: 0] (TCP: 1017, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run049.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run049.pcap.zst: 335996 bytes 
+
+post_run049.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run049.pcap.zst: 706549 bytes 
+44887
+44889
+INFO:root:IPv4: 1521 [!options: 0] (TCP: 1521, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1859 [!options: 0] (TCP: 1859, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run050.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run050.pcap.zst: 334008 bytes 
+
+post_run050.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run050.pcap.zst: 702304 bytes 
+45249
+45251
+INFO:root:IPv4: 1512 [!options: 0] (TCP: 1512, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1848 [!options: 0] (TCP: 1848, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run051.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run051.pcap.zst: 264068 bytes 
+
+post_run051.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run051.pcap.zst: 650554 bytes 
+45550
+45551
+INFO:root:IPv4: 1683 [!options: 0] (TCP: 1683, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 2057 [!options: 0] (TCP: 2057, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run052.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run052.pcap.zst: 280332 bytes 
+
+post_run052.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run052.pcap.zst: 602828 bytes 
+45864
+45865
+INFO:root:IPv4: 1269 [!options: 0] (TCP: 1269, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1551 [!options: 0] (TCP: 1551, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run053.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run053.pcap.zst: 220692 bytes 
+
+post_run053.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run053.pcap.zst: 474724 bytes 
+46179
+46181
+INFO:root:IPv4: 1221 [!options: 0] (TCP: 1221, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 999 [!options: 0] (TCP: 999, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run054.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run054.pcap.zst: 318104 bytes 
+
+post_run054.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run054.pcap.zst: 679400 bytes 
+46505
+46506
+INFO:root:IPv4: 1440 [!options: 0] (TCP: 1440, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1760 [!options: 0] (TCP: 1760, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run055.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run055.pcap.zst: 234608 bytes 
+
+post_run055.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run055.pcap.zst: 504496 bytes 
+46759
+46760
+INFO:root:IPv4: 1062 [!options: 0] (TCP: 1062, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1298 [!options: 0] (TCP: 1298, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run056.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run056.pcap.zst: 167694 bytes 
+
+post_run056.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run056.pcap.zst: 430508 bytes 
+47186
+47187
+INFO:root:IPv4: 810 [!options: 0] (TCP: 810, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 972 [!options: 0] (TCP: 972, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run057.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run057.pcap.zst: 306311 bytes 
+
+post_run057.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run057.pcap.zst: 658734 bytes 
+47357
+47358
+INFO:root:IPv4: 1387 [!options: 0] (TCP: 1387, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1695 [!options: 0] (TCP: 1695, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root7" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run006.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run006.pcap.zst: 16269652 bytes 
+
+post_run006.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run006.pcap.zst: 34993784 bytes 
+33035
+33037
+INFO:root:IPv4: 73656 [!options: 0] (TCP: 73656, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 90022 [!options: 0] (TCP: 90022, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run058.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run058.pcap.zst: 300347 bytes 
+
+post_run058.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run058.pcap.zst: 645794 bytes 
+47862
+47863
+INFO:root:IPv4: 1360 [!options: 0] (TCP: 1360, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1662 [!options: 0] (TCP: 1662, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run059.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run059.pcap.zst: 246948 bytes 
+
+post_run059.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run059.pcap.zst: 599994 bytes 
+48063
+48064
+INFO:root:IPv4: 1539 [!options: 0] (TCP: 1539, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1881 [!options: 0] (TCP: 1881, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run060.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run060.pcap.zst: 220692 bytes 
+
+post_run060.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run060.pcap.zst: 474788 bytes 
+48296
+48297
+INFO:root:IPv4: 999 [!options: 0] (TCP: 999, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1221 [!options: 0] (TCP: 1221, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run061.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run061.pcap.zst: 159414 bytes 
+
+post_run061.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run061.pcap.zst: 409484 bytes 
+48676
+48677
+INFO:root:IPv4: 770 [!options: 0] (TCP: 770, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 924 [!options: 0] (TCP: 924, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run062.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run062.pcap.zst: 278344 bytes 
+
+post_run062.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run062.pcap.zst: 598712 bytes 
+49012
+49013
+INFO:root:IPv4: 1260 [!options: 0] (TCP: 1260, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1540 [!options: 0] (TCP: 1540, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run063.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run063.pcap.zst: 143544 bytes 
+
+post_run063.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run063.pcap.zst: 309216 bytes 
+49214
+49215
+INFO:root:IPv4: 600 [!options: 0] (TCP: 600, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 720 [!options: 0] (TCP: 720, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run064.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run064.pcap.zst: 282320 bytes 
+
+post_run064.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run064.pcap.zst: 607152 bytes 
+49507
+49508
+INFO:root:IPv4: 1278 [!options: 0] (TCP: 1278, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1562 [!options: 0] (TCP: 1562, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run065.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run065.pcap.zst: 290272 bytes 
+
+post_run065.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run065.pcap.zst: 624464 bytes 
+50036
+50038
+INFO:root:IPv4: 1314 [!options: 0] (TCP: 1314, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1606 [!options: 0] (TCP: 1606, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run066.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run066.pcap.zst: 233864 bytes 
+
+post_run066.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run066.pcap.zst: 560532 bytes 
+50109
+50110
+INFO:root:IPv4: 1738 [!options: 0] (TCP: 1738, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1422 [!options: 0] (TCP: 1422, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run067.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run067.pcap.zst: 141424 bytes 
+
+post_run067.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run067.pcap.zst: 288616 bytes 
+50465
+50467
+INFO:root:IPv4: 672 [!options: 0] (TCP: 672, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 560 [!options: 0] (TCP: 560, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run068.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run068.pcap.zst: 248524 bytes 
+
+post_run068.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run068.pcap.zst: 534476 bytes 
+50967
+50968
+INFO:root:IPv4: 1125 [!options: 0] (TCP: 1125, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 1375 [!options: 0] (TCP: 1375, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run069.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run069.pcap.zst: 8544 bytes 
+
+post_run069.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run069.pcap.zst: 33248 bytes 
+51059
+51061
+INFO:root:IPv4: 69 [!options: 0] (TCP: 69, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 67 [!options: 0] (TCP: 67, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run070.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run070.pcap.zst: 12034 bytes 
+
+post_run070.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run070.pcap.zst: 38234 bytes 
+51342
+51343
+INFO:root:IPv4: 67 [!options: 0] (TCP: 67, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 67 [!options: 0] (TCP: 67, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run071.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run071.pcap.zst: 12444 bytes 
+
+post_run071.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run071.pcap.zst: 44400 bytes 
+51949
+51950
+INFO:root:IPv4: 72 [!options: 0] (TCP: 72, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 72 [!options: 0] (TCP: 72, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run072.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run072.pcap.zst: 12116 bytes 
+
+post_run072.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run072.pcap.zst: 37526 bytes 
+51954
+51956
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 68 [!options: 0] (TCP: 68, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run073.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run073.pcap.zst: 12116 bytes 
+
+post_run073.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run073.pcap.zst: 37590 bytes 
+52193
+52194
+INFO:root:IPv4: 68 [!options: 0] (TCP: 68, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run075.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run075.pcap.zst: 12034 bytes 
+
+post_run075.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run075.pcap.zst: 38144 bytes 
+52891
+52893
+INFO:root:IPv4: 67 [!options: 0] (TCP: 67, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run074.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run074.pcap.zst: 8660 bytes 
+
+post_run074.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run074.pcap.zst: 33372 bytes 
+52848
+52850
+INFO:root:IPv4: 68 [!options: 0] (TCP: 68, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run076.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run076.pcap.zst: 12444 bytes 
+
+post_run076.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run076.pcap.zst: 44432 bytes 
+53167
+53168
+INFO:root:IPv4: 72 [!options: 0] (TCP: 72, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 72 [!options: 0] (TCP: 72, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run078.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run078.pcap.zst: 16206 bytes 
+
+post_run078.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run078.pcap.zst: 41060 bytes 
+53770
+53772
+INFO:root:IPv4: 81 [!options: 0] (TCP: 81, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 78 [!options: 0] (TCP: 78, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run077.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run077.pcap.zst: 12198 bytes 
+
+post_run077.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run077.pcap.zst: 37996 bytes 
+53726
+53727
+INFO:root:IPv4: 69 [!options: 0] (TCP: 69, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run079.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run079.pcap.zst: 19586 bytes 
+
+post_run079.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run079.pcap.zst: 54286 bytes 
+54121
+54122
+INFO:root:IPv4: 90 [!options: 0] (TCP: 90, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 89 [!options: 0] (TCP: 89, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run081.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run081.pcap.zst: 12116 bytes 
+
+post_run081.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run081.pcap.zst: 38128 bytes 
+54710
+54712
+INFO:root:IPv4: 68 [!options: 0] (TCP: 68, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run080.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run080.pcap.zst: 12198 bytes 
+
+post_run080.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run080.pcap.zst: 38128 bytes 
+54653
+54654
+INFO:root:IPv4: 69 [!options: 0] (TCP: 69, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run082.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run082.pcap.zst: 8852 bytes 
+
+post_run082.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run082.pcap.zst: 33564 bytes 
+55039
+55040
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 68 [!options: 0] (TCP: 68, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run083.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run083.pcap.zst: 16788 bytes 
+
+post_run083.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run083.pcap.zst: 41594 bytes 
+55583
+55586
+INFO:root:IPv4: 81 [!options: 0] (TCP: 81, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 78 [!options: 0] (TCP: 78, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run084.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run084.pcap.zst: 16394 bytes 
+
+post_run084.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run084.pcap.zst: 45706 bytes 
+55650
+55651
+INFO:root:IPv4: 75 [!options: 0] (TCP: 75, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 75 [!options: 0] (TCP: 75, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run085.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run085.pcap.zst: 12198 bytes 
+
+post_run085.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run085.pcap.zst: 38160 bytes 
+55969
+55970
+INFO:root:IPv4: 69 [!options: 0] (TCP: 69, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run086.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run086.pcap.zst: 17280 bytes 
+
+post_run086.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run086.pcap.zst: 41816 bytes 
+56488
+56489
+INFO:root:IPv4: 64 [!options: 0] (TCP: 64, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 64 [!options: 0] (TCP: 64, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run087.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run087.pcap.zst: 11952 bytes 
+
+post_run087.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run087.pcap.zst: 38176 bytes 
+56552
+56553
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run088.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run088.pcap.zst: 9964 bytes 
+
+post_run088.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run088.pcap.zst: 31772 bytes 
+56855
+56856
+INFO:root:IPv4: 55 [!options: 0] (TCP: 55, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 55 [!options: 0] (TCP: 55, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run089.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run089.pcap.zst: 9068 bytes 
+
+post_run089.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run089.pcap.zst: 33748 bytes 
+57421
+57422
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 68 [!options: 0] (TCP: 68, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run090.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run090.pcap.zst: 17280 bytes 
+
+post_run090.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run090.pcap.zst: 41784 bytes 
+57432
+57433
+INFO:root:IPv4: 64 [!options: 0] (TCP: 64, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 64 [!options: 0] (TCP: 64, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run091.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run091.pcap.zst: 11952 bytes 
+
+post_run091.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run091.pcap.zst: 38128 bytes 
+57723
+57724
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 66 [!options: 0] (TCP: 66, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run092.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run092.pcap.zst: 15036 bytes 
+
+post_run092.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run092.pcap.zst: 56486 bytes 
+58348
+58350
+INFO:root:IPv4: 113 [!options: 0] (TCP: 113, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 123 [!options: 0] (TCP: 123, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run093.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run093.pcap.zst: 25278 bytes 
+
+post_run093.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run093.pcap.zst: 76752 bytes 
+58395
+58397
+INFO:root:IPv4: 128 [!options: 0] (TCP: 128, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 151 [!options: 0] (TCP: 151, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run094.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run094.pcap.zst: 24158 bytes 
+
+post_run094.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run094.pcap.zst: 87980 bytes 
+58698
+58699
+INFO:root:IPv4: 146 [!options: 0] (TCP: 146, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 140 [!options: 0] (TCP: 140, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run096.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run096.pcap.zst: 14852 bytes 
+
+post_run096.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run096.pcap.zst: 44671 bytes 
+59287
+59288
+INFO:root:IPv4: 87 [!options: 0] (TCP: 87, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 77 [!options: 0] (TCP: 77, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run095.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run095.pcap.zst: 23440 bytes 
+
+post_run095.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run095.pcap.zst: 69703 bytes 
+59273
+59275
+INFO:root:IPv4: 137 [!options: 0] (TCP: 137, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 121 [!options: 0] (TCP: 121, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run097.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run097.pcap.zst: 15812 bytes 
+
+post_run097.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run097.pcap.zst: 58420 bytes 
+59631
+59633
+INFO:root:IPv4: 128 [!options: 0] (TCP: 128, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 115 [!options: 0] (TCP: 115, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run098.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run098.pcap.zst: 24105 bytes 
+
+post_run098.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run098.pcap.zst: 72403 bytes 
+60153
+60154
+INFO:root:IPv4: 124 [!options: 0] (TCP: 124, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 140 [!options: 0] (TCP: 140, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run099.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run099.pcap.zst: 17208 bytes 
+
+post_run099.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run099.pcap.zst: 60952 bytes 
+60235
+60237
+INFO:root:IPv4: 92 [!options: 0] (TCP: 92, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 102 [!options: 0] (TCP: 102, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run100.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run100.pcap.zst: 27972 bytes 
+
+post_run100.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run100.pcap.zst: 84820 bytes 
+60526
+60528
+INFO:root:IPv4: 165 [!options: 0] (TCP: 165, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 150 [!options: 0] (TCP: 150, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run101.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run101.pcap.zst: 34518 bytes 
+
+post_run101.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run101.pcap.zst: 87300 bytes 
+61125
+61127
+INFO:root:IPv4: 168 [!options: 0] (TCP: 168, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 161 [!options: 0] (TCP: 161, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run102.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run102.pcap.zst: 29209 bytes 
+
+post_run102.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run102.pcap.zst: 79098 bytes 
+61139
+61140
+INFO:root:IPv4: 127 [!options: 0] (TCP: 127, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 136 [!options: 0] (TCP: 136, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run103.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run103.pcap.zst: 30811 bytes 
+
+post_run103.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run103.pcap.zst: 93486 bytes 
+61432
+61434
+INFO:root:IPv4: 185 [!options: 0] (TCP: 185, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 157 [!options: 0] (TCP: 157, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run104.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run104.pcap.zst: 21824 bytes 
+
+post_run104.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run104.pcap.zst: 66782 bytes 
+61966
+61968
+INFO:root:IPv4: 114 [!options: 0] (TCP: 114, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 129 [!options: 0] (TCP: 129, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run105.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run105.pcap.zst: 12758 bytes 
+
+post_run105.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run105.pcap.zst: 45070 bytes 
+62060
+62061
+INFO:root:IPv4: 87 [!options: 0] (TCP: 87, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 101 [!options: 0] (TCP: 101, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run106.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run106.pcap.zst: 22277 bytes 
+
+post_run106.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run106.pcap.zst: 53315 bytes 
+62353
+62354
+INFO:root:IPv4: 96 [!options: 0] (TCP: 96, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 102 [!options: 0] (TCP: 102, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root2" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run001.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run001.pcap.zst: 18909880 bytes 
+
+post_run001.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run001.pcap.zst: 40672040 bytes 
+33096
+33097
+INFO:root:IPv4: 85608 [!options: 0] (TCP: 85608, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 104632 [!options: 0] (TCP: 104632, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run107.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run107.pcap.zst: 29010 bytes 
+
+post_run107.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run107.pcap.zst: 78826 bytes 
+62880
+62882
+INFO:root:IPv4: 132 [!options: 0] (TCP: 132, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 126 [!options: 0] (TCP: 126, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run108.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run108.pcap.zst: 15128 bytes 
+
+post_run108.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run108.pcap.zst: 46060 bytes 
+63014
+63015
+INFO:root:IPv4: 77 [!options: 0] (TCP: 77, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 88 [!options: 0] (TCP: 88, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run109.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run109.pcap.zst: 38546 bytes 
+
+post_run109.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run109.pcap.zst: 90038 bytes 
+63348
+63349
+INFO:root:IPv4: 146 [!options: 0] (TCP: 146, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 137 [!options: 0] (TCP: 137, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run110.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run110.pcap.zst: 23218 bytes 
+
+post_run110.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run110.pcap.zst: 67648 bytes 
+63827
+63829
+INFO:root:IPv4: 116 [!options: 0] (TCP: 116, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 136 [!options: 0] (TCP: 136, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run111.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run111.pcap.zst: 19240 bytes 
+
+post_run111.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run111.pcap.zst: 60120 bytes 
+63976
+63978
+INFO:root:IPv4: 101 [!options: 0] (TCP: 101, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 113 [!options: 0] (TCP: 113, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run112.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run112.pcap.zst: 18704 bytes 
+
+post_run112.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run112.pcap.zst: 70706 bytes 
+64068
+64070
+INFO:root:IPv4: 136 [!options: 0] (TCP: 136, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 142 [!options: 0] (TCP: 142, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run113.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run113.pcap.zst: 29797 bytes 
+
+post_run113.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run113.pcap.zst: 74264 bytes 
+64450
+64451
+INFO:root:IPv4: 122 [!options: 0] (TCP: 122, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 109 [!options: 0] (TCP: 109, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run114.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run114.pcap.zst: 20276 bytes 
+
+post_run114.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run114.pcap.zst: 63604 bytes 
+65029
+65030
+INFO:root:IPv4: 106 [!options: 0] (TCP: 106, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 123 [!options: 0] (TCP: 123, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run115.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run115.pcap.zst: 57645 bytes 
+
+post_run115.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run115.pcap.zst: 218117 bytes 
+65190
+65192
+INFO:root:IPv4: 473 [!options: 0] (TCP: 473, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 438 [!options: 0] (TCP: 438, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run116.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run116.pcap.zst: 67442 bytes 
+
+post_run116.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run116.pcap.zst: 208600 bytes 
+65320
+65321
+INFO:root:IPv4: 364 [!options: 0] (TCP: 364, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 390 [!options: 0] (TCP: 390, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run117.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run117.pcap.zst: 109458 bytes 
+
+post_run117.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run117.pcap.zst: 380194 bytes 
+65690
+65691
+INFO:root:IPv4: 620 [!options: 0] (TCP: 620, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 665 [!options: 0] (TCP: 665, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run119.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run119.pcap.zst: 91702 bytes 
+
+post_run119.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run119.pcap.zst: 278076 bytes 
+66340
+66342
+INFO:root:IPv4: 533 [!options: 0] (TCP: 533, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 492 [!options: 0] (TCP: 492, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run118.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run118.pcap.zst: 123606 bytes 
+
+post_run118.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run118.pcap.zst: 372029 bytes 
+66194
+66195
+INFO:root:IPv4: 656 [!options: 0] (TCP: 656, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 720 [!options: 0] (TCP: 720, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run120.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run120.pcap.zst: 77522 bytes 
+
+post_run120.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run120.pcap.zst: 288102 bytes 
+66522
+66523
+INFO:root:IPv4: 622 [!options: 0] (TCP: 622, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 568 [!options: 0] (TCP: 568, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run121.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run121.pcap.zst: 113323 bytes 
+
+post_run121.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run121.pcap.zst: 348679 bytes 
+66916
+66918
+INFO:root:IPv4: 613 [!options: 0] (TCP: 613, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 656 [!options: 0] (TCP: 656, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run122.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run122.pcap.zst: 105156 bytes 
+
+post_run122.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run122.pcap.zst: 362684 bytes 
+67456
+67457
+INFO:root:IPv4: 591 [!options: 0] (TCP: 591, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 618 [!options: 0] (TCP: 618, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run123.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run123.pcap.zst: 81016 bytes 
+
+post_run123.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run123.pcap.zst: 251268 bytes 
+67505
+67506
+INFO:root:IPv4: 440 [!options: 0] (TCP: 440, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 469 [!options: 0] (TCP: 469, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run124.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run124.pcap.zst: 145024 bytes 
+
+post_run124.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run124.pcap.zst: 362570 bytes 
+67669
+67671
+INFO:root:IPv4: 688 [!options: 0] (TCP: 688, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 743 [!options: 0] (TCP: 743, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root11" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run010.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run010.pcap.zst: 20405018 bytes 
+
+post_run010.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run010.pcap.zst: 52405104 bytes 
+33136
+33138
+INFO:root:IPv4: 98580 [!options: 0] (TCP: 98580, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 118283 [!options: 0] (TCP: 118283, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run125.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run125.pcap.zst: 115025 bytes 
+
+post_run125.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run125.pcap.zst: 315812 bytes 
+68212
+68213
+INFO:root:IPv4: 522 [!options: 0] (TCP: 522, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 543 [!options: 0] (TCP: 543, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run127.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run127.pcap.zst: 128278 bytes 
+
+post_run127.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run127.pcap.zst: 393780 bytes 
+68733
+68735
+INFO:root:IPv4: 749 [!options: 0] (TCP: 749, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 686 [!options: 0] (TCP: 686, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run126.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run126.pcap.zst: 128636 bytes 
+
+post_run126.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run126.pcap.zst: 397834 bytes 
+68667
+68668
+INFO:root:IPv4: 690 [!options: 0] (TCP: 690, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 751 [!options: 0] (TCP: 751, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run128.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run128.pcap.zst: 72314 bytes 
+
+post_run128.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run128.pcap.zst: 266620 bytes 
+68938
+68939
+INFO:root:IPv4: 529 [!options: 0] (TCP: 529, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 566 [!options: 0] (TCP: 566, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run129.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run129.pcap.zst: 130898 bytes 
+
+post_run129.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run129.pcap.zst: 313388 bytes 
+69393
+69394
+INFO:root:IPv4: 648 [!options: 0] (TCP: 648, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 585 [!options: 0] (TCP: 585, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run130.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run130.pcap.zst: 153810 bytes 
+
+post_run130.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run130.pcap.zst: 418272 bytes 
+69563
+69564
+INFO:root:IPv4: 683 [!options: 0] (TCP: 683, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 704 [!options: 0] (TCP: 704, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run132.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run132.pcap.zst: 164348 bytes 
+
+post_run132.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run132.pcap.zst: 388454 bytes 
+70140
+70142
+INFO:root:IPv4: 629 [!options: 0] (TCP: 629, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 597 [!options: 0] (TCP: 597, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run131.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run131.pcap.zst: 130284 bytes 
+
+post_run131.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run131.pcap.zst: 401288 bytes 
+70096
+70098
+INFO:root:IPv4: 758 [!options: 0] (TCP: 758, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 701 [!options: 0] (TCP: 701, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run133.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run133.pcap.zst: 100589 bytes 
+
+post_run133.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run133.pcap.zst: 309754 bytes 
+70339
+70341
+INFO:root:IPv4: 541 [!options: 0] (TCP: 541, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 580 [!options: 0] (TCP: 580, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run134.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run134.pcap.zst: 50301 bytes 
+
+post_run134.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run134.pcap.zst: 154566 bytes 
+70974
+70975
+INFO:root:IPv4: 266 [!options: 0] (TCP: 266, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 288 [!options: 0] (TCP: 288, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root9" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run008.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run008.pcap.zst: 19866374 bytes 
+
+post_run008.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run008.pcap.zst: 42431700 bytes 
+33078
+33079
+INFO:root:IPv4: 89946 [!options: 0] (TCP: 89946, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 109913 [!options: 0] (TCP: 109913, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run135.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run135.pcap.zst: 74936 bytes 
+
+post_run135.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run135.pcap.zst: 268084 bytes 
+71158
+71160
+INFO:root:IPv4: 527 [!options: 0] (TCP: 527, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 577 [!options: 0] (TCP: 577, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run136.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run136.pcap.zst: 191520 bytes 
+
+post_run136.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run136.pcap.zst: 461184 bytes 
+71619
+71620
+INFO:root:IPv4: 698 [!options: 0] (TCP: 698, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 740 [!options: 0] (TCP: 740, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run137.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run137.pcap.zst: 104760 bytes 
+
+post_run137.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run137.pcap.zst: 324134 bytes 
+71781
+71783
+INFO:root:IPv4: 603 [!options: 0] (TCP: 603, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 563 [!options: 0] (TCP: 563, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run017.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run017.pcap.zst: 25318694 bytes 
+
+post_run017.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run017.pcap.zst: 55116358 bytes 
+34486
+34488
+INFO:root:IPv4: 118870 [!options: 0] (TCP: 118870, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 138671 [!options: 0] (TCP: 138671, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root6" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run005.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run005.pcap.zst: 15035610 bytes 
+
+post_run005.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run005.pcap.zst: 37040676 bytes 
+33046
+33047
+INFO:root:IPv4: 95850 [!options: 0] (TCP: 95850, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 117123 [!options: 0] (TCP: 117123, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root4" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run003.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run003.pcap.zst: 21244856 bytes 
+
+post_run003.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run003.pcap.zst: 44693714 bytes 
+33274
+33276
+INFO:root:IPv4: 96210 [!options: 0] (TCP: 96210, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 117506 [!options: 0] (TCP: 117506, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run018.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run018.pcap.zst: 20713692 bytes 
+
+post_run018.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run018.pcap.zst: 44559804 bytes 
+34659
+34660
+INFO:root:IPv4: 93789 [!options: 0] (TCP: 93789, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 114591 [!options: 0] (TCP: 114591, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root13" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run012.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run012.pcap.zst: 21389304 bytes 
+
+post_run012.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run012.pcap.zst: 46018320 bytes 
+33153
+33154
+INFO:root:IPv4: 96858 [!options: 0] (TCP: 96858, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 118314 [!options: 0] (TCP: 118314, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root5" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  duplicate key value violates unique constraint "pg_database_datname_index"
+DETAIL:  Key (datname)=(root) already exists.
+
+-pre_run004.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run004.pcap.zst: 21686110 bytes 
+
+post_run004.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run004.pcap.zst: 45623448 bytes 
+33029
+33030
+INFO:root:IPv4: 98208 [!options: 0] (TCP: 98208, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 119947 [!options: 0] (TCP: 119947, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root3" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+
+-pre_run002.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run002.pcap.zst: 22320222 bytes 
+
+post_run002.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run002.pcap.zst: 48010872 bytes 
+33005
+33007
+INFO:root:IPv4: 101052 [!options: 0] (TCP: 101052, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 123495 [!options: 0] (TCP: 123495, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+NOTICE:  database "root1" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run000.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run000.pcap.zst: 15690739 bytes 
+
+post_run000.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run000.pcap.zst: 39201827 bytes 
+33261
+33263
+INFO:root:IPv4: 102412 [!options: 0] (TCP: 102412, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 1
+INFO:root:IPv4: 125157 [!options: 0] (TCP: 125157, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 1
+NOTICE:  database "root12" does not exist, skipping
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run011.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run011.pcap.zst: 23390032 bytes 
+
+post_run011.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run011.pcap.zst: 50316340 bytes 
+33205
+33207
+INFO:root:IPv4: 105903 [!options: 0] (TCP: 105903, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 129403 [!options: 0] (TCP: 129403, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+could not change directory to "/root/sniffer-results": Permission denied
+createuser: error: creation of new role failed: ERROR:  role "root" already exists
+createdb: error: database creation failed: ERROR:  database "root" already exists
+
+-pre_run019.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-pre_run019.pcap.zst: 22576202 bytes 
+
+post_run019.pcap.zst : 0 MB...     
+                                                                               
+/root/sniffer-raw/pcaps/latencies-post_run019.pcap.zst: 48568832 bytes 
+35154
+35156
+INFO:root:IPv4: 102222 [!options: 0] (TCP: 102222, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0
+INFO:root:IPv4: 124895 [!options: 0] (TCP: 124895, UDP: 0, ICMP: 0, other: 0), IPv6: 0, other: 0

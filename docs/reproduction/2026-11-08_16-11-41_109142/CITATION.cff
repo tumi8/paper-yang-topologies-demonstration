@@ -1,0 +1,44 @@
+cff-version: 1.2.0
+message: If you use this work, please cite it using the metadata below.
+type: dataset
+title: 'Demonstration of the YANG Topology Emulation in Containernet: Reproduction
+  of a Post-Quantum TLS Performance Measurement'
+abstract: "This demonstration showcases our Python library\u2019s Containernet backend\
+  \ by reproducing a published post-quantum TLS measurement. We reconstructed the\
+  \ topology in YANG from the original publication\u2019s text and diagrams. It connects\
+  \ a client and server through a bidirectional link, with optical splitters directing\
+  \ traffic to a sniffer. The backend instantiates this topology and emulates it with\
+  \ the optical splitters. Scripts from the original public artifacts install the\
+  \ software dependencies and execute the measurement reported in Table 4a of \u201C\
+  The Performance of Post-Quantum TLS 1.3\u201D (DOI: 10.1145/3624354.3630585) by\
+  \ Sosnowski et al., presented at CoNEXT\u201923. The table lists median handshake\
+  \ latencies for different key encapsulation mechanisms (KEMs) under varying network\
+  \ conditions. Finally, the results are evaluated, a CSV file and a PDF plot are\
+  \ generated, and the emulation is stopped."
+date-released: '2026-11-08'
+authors:
+- given-names: Eric
+  family-names: Hauser
+  orcid: https://orcid.org/0000-0002-5378-3905
+  affiliation: Technical University of Munich
+- given-names: Markus
+  family-names: Sosnowski
+  orcid: https://orcid.org/0000-0002-7322-5804
+  affiliation: Technical University of Munich
+- given-names: Florian
+  family-names: Wiedner
+  orcid: https://orcid.org/0000-0003-2471-9864
+  affiliation: Technical University of Munich
+keywords:
+- YANG
+- Containernet
+- post-quantum cryptography
+- TLS
+- measurement
+- handshake latency
+- NetEm
+license: CC-BY-SA-4.0
+identifiers:
+- type: doi
+  value: 10.5281/zenodo.24062012
+  description: Publication

@@ -1,0 +1,16 @@
+#!/bin/bash
+set -e
+
+# Use the default-route interface and its third IPv4 octet.
+UPLINK=$(ip -4 route show default | awk '/default/ {print $5; exit}')
+IP=$(ip -o -4 addr show dev "$UPLINK" scope global | awk '{split($4, a, "/"); print a[1]}')
+OCT3=$(echo "$IP" | cut -d . -f 3)
+START_MAC=$(printf '52:54:00:%02x:00:02' "$OCT3")
+
+echo "Uplink: $UPLINK ($IP); management start MAC: $START_MAC"
+source /opt/yang-containernet/.venv/bin/activate
+pos_run containernet -- python3 /root/net_topology/net_topology/containernet_backend.py \
+    /root/topology.json \
+    --uplink "$UPLINK" \
+    --management-start-mac "$START_MAC" \
+    --no-cli

@@ -1,0 +1,69 @@
+#!/bin/bash
+set -e
+
+MEASUREMENT_TIME=$(pos_get_variable --from-global measurement_time)
+TIMEOUT_AMOUNT=$((MEASUREMENT_TIME+90))
+SNAPLEN=$(pos_get_variable capture/length)
+CLIENT=$(pos_get_variable --from-global client)
+SERVER=$(pos_get_variable --from-global server)
+SNIFFER=$(pos_get_variable --from-global sniffer)
+CAPTURE_BACKEND=$(pos_get_variable --from-global capture_backend)
+
+case "$CAPTURE_BACKEND" in
+moongen)
+    PORT_NO_RX=$(pos_get_variable portno/rx)
+    PORT_NO_TX=$(pos_get_variable portno/tx)
+    MOONGEN=moongen
+    ;;
+tcpdump)
+    PORT_RX=$(pos_get_variable port/rx)
+    PORT_TX=$(pos_get_variable port/tx)
+    ;;
+*)
+    echo "Unknown capture backend: $CAPTURE_BACKEND (expected moongen or tcpdump)" >&2
+    exit 1
+    ;;
+esac
+
+pos_sync "$CLIENT" "$SERVER" "$SNIFFER"
+echo "Starting experiment ($(date))"
+
+echo "Waiting for record ($(date))"
+pos_sync -t record "$CLIENT" "$SNIFFER"
+echo "Received record ($(date))"
+
+# start dumping interfaces
+if [ "$CAPTURE_BACKEND" = "moongen" ]; then
+    pos_run --loop moonsniff -- "/root/$MOONGEN/build/MoonGen" "/root/$MOONGEN/examples/moonsniff/sniffer.lua" "$PORT_NO_RX" "$PORT_NO_TX" --capture --time "$TIMEOUT_AMOUNT" --snaplen "$SNAPLEN"
+else
+    pos_run --loop tcpdump-pre -- bash -c \
+        'timeout --signal=INT "$1" tcpdump -i "$2" -s "$3" --time-stamp-precision=nano -Z root -w "$4"; test "$?" -eq 124' \
+        _ "$TIMEOUT_AMOUNT" "$PORT_RX" "$SNAPLEN" latencies-pre.pcap
+    pos_run --loop tcpdump-post -- bash -c \
+        'timeout --signal=INT "$1" tcpdump -i "$2" -s "$3" --time-stamp-precision=nano -Z root -w "$4"; test "$?" -eq 124' \
+        _ "$TIMEOUT_AMOUNT" "$PORT_TX" "$SNAPLEN" latencies-post.pcap
+fi
+echo "Recording PCAPs ($(date))"
+
+sleep 10 # to be save recording has actually started
+
+if [ "$CAPTURE_BACKEND" = "moongen" ]; then
+    pos_wait --loop moonsniff
+else
+    pos_wait --loop tcpdump-pre
+    pos_wait --loop tcpdump-post
+fi
+echo "Finished recording PCAPs ($(date))"
+
+pos_sync "$CLIENT" "$SERVER" "$SNIFFER"
+
+zstdmt -13 --rm latencies-pre.pcap  # client to server
+zstdmt -13 --rm latencies-post.pcap  # server to client
+sleep 2
+
+pos_upload --loop --outfile "latencies-pre.pcap.zst" latencies-pre.pcap.zst
+pos_upload --loop --outfile "latencies-post.pcap.zst" latencies-post.pcap.zst
+
+sleep 2
+rm latencies-pre.pcap.zst
+rm latencies-post.pcap.zst
